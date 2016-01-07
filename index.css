@@ -1,4 +1,8 @@
+h1 {
+	font-family: Geneva;
+}
 body {
 	
-	background-image: url(DCS_8363(1).jpg);  
+	background-image: url("DCS_8363(1).jpg");  
+
 }
